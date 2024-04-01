@@ -358,6 +358,9 @@ border-top: none;
   display: flex;
   align-items: baseline;
 }
+.footer-name {
+  margin-right: 120px;
+}
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
@@ -381,7 +384,6 @@ border-top: none;
   color: #f4f4fd;
 }
 .footer-social{
-  margin-right: 120px;
 }
 .footer-item-text {
   font-weight: 500;
