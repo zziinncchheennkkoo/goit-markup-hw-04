@@ -353,6 +353,9 @@ border-top: none;
   background: #2e2f42;
   padding: 100px 0;
 }
+.social {
+  display: flex;
+}
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
@@ -376,8 +379,7 @@ border-top: none;
   color: #f4f4fd;
 }
 .footer-social{
-  margin-right: 120px;
-  display: flex;
+  margin-left: 120px;
   align-items: baseline;
 }
 .footer-item-text {
